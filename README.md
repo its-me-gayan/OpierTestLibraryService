@@ -1,4 +1,6 @@
 # OpierTestLibraryService
+Java - 21
+SpringBoot - 3.0.7
 
 Please note that due to time limitation i couldnt cover all the unit testings
 
